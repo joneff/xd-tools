@@ -1,0 +1,25 @@
+{
+  "name": "@joneff/xd-tools",
+  "version": "0.0.0",
+  "description": "",
+  "repository": "joneff/baka",
+  "bugs": {
+    "url": "https://github.com/joneff/xd-tools/issues"
+  },
+  "author": "Ivan Zhekov",
+  "license": "ISC",
+  "main": "index.js",
+  "files": [],
+  "directories": {
+    "text": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "adm-zip": "^0.5.3",
+    "fs-extra": "^9.1.0",
+    "gulp": "^4.0.2",
+    "lodash.template": "^4.5.0"
+  }
+}
